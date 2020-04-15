@@ -5,6 +5,7 @@ Documentation on (suggestive) standards for how to map and document various type
 
 a tabular view of: 
 
+* **mandatory:** Is the term mandatory?
 * **table** of placement of term in the DwC-A  
 * **term** the DwC or DwC-extention term used
 * **explanation** verbal description on usage and meaning
